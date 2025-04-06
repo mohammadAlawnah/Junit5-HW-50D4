@@ -25,4 +25,6 @@ public class Product {
     public String getName() { return name; }
     public double getPrice() { return price; }
     public double getDiscount() { return discount; }
+    
+    
 }
